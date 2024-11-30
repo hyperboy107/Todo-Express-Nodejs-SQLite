@@ -1,4 +1,4 @@
-## Node.js![pngwing com (2)](https://github.com/user-attachments/assets/5c36fdc8-5f4e-4adc-aeae-930240eaf124)
+## Node.js!(https://github.com/user-attachments/assets/5c36fdc8-5f4e-4adc-aeae-930240eaf124)
   
 # Dependencies
 
