@@ -1,13 +1,9 @@
 ![Node.js](https://nodejs.org/static/images/logo.svg)
 ![Express.js](https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png)
 
-
-  
-# Dependencies
-
 <div style="background-color: #e0f7fa; padding: 15px; border-radius: 5px;">
     <code>npm i express bcryptjs jsonwebtoken</code>
-</div>
+</div> <br/>
 
 Full-stack to-do list app with an Express.js and Node.js backend, SQLite for efficient data storage, and JWT for secure authentication.
 
