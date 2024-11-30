@@ -1,7 +1,6 @@
-## Node.js
-![Node.js](https://raw.githubusercontent.com/your-username/your-repo/main/assets/nodejs.png)
+![Node.js](https://nodejs.org/static/images/logo.svg)
+![Express.js](https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png)
 
-![Express.js Logo](https://raw.githubusercontent.com/your-username/your-repo/main/assets/express-logo.png)
 
   
 # Dependencies
